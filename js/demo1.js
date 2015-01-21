@@ -1,6 +1,6 @@
 
 //Create a reference to the pixel data for our drawing.
-pixelDataRef = new Firebase("https://exampleapp1.firebaseio.com/demo1");
+pixelDataRef = new Firebase("https://<YOUR-FIREBASE-NAME>.firebaseio.com/demo1");
 
 $(function(){
   
